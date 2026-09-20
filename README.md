@@ -1,8 +1,32 @@
 # Hi there 👋
 
-Senior Fullstack Engineer with 12+ years of experience taking SaaS products from idea to a scalable production system. I lead development teams and deliver high-performance applications with React, Next.js, and TypeScript.
+Writing code is the easy part. Building it right is harder — so six months later you're scaling the product, not fixing the problems created today.
 
-I focus on the work that actually moves the product: performance (50% faster load times), large migrations (1,300+ API endpoints), and reusable UI systems that cut development time by 40%. Available for long-term collaborations.
+12+ years of building software changes how you look at a task. I don't see frontend and backend as separate jobs. I see one product, one system, and every decision that can make it faster, stronger, easier to scale — or painfully expensive to fix later.
+
+That's the perspective I bring as a Full Stack Developer and Tech Lead.
+
+## Highlights
+
+- ⚡️ **50%** faster initial load time through SSR and bundle optimization
+- 🚀 **40%** faster build times after rebuilding the Webpack setup
+- 🔄 **1,300+** API requests migrated to a new backend stack
+- 📦 **20+** client applications delivered and supported
+- 🧩 **50+** reusable components built across production UI systems
+- 🛠 **40+** major features shipped for a complex SaaS platform
+
+Different projects. Same principle: make the product faster, cleaner, easier to scale — and easier to build on tomorrow.
+
+## What I work on
+
+- **Build from scratch** — SaaS, MVPs, dashboards, admin panels, marketplaces, and custom web apps from idea to production
+- **Take over existing products** — understand the codebase, clean up what's holding it back, keep shipping without a rewrite for its own sake
+- **Fix performance** — slow pages, heavy bundles, inefficient APIs, database bottlenecks, slow builds
+- **Modernize legacy systems** — refactor, migrate APIs and infrastructure, reduce technical debt without breaking what works
+- **Connect the system** — backend, REST APIs, databases, integrations, auth, real-time features, and frontend as one product
+- **Prepare to scale** — architecture, performance, maintainability, CI/CD, infrastructure
+
+Open to long-term collaborations and complex technical challenges.
 
 ## 📫 Contact
 
