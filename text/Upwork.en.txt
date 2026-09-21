@@ -1,0 +1,77 @@
+Writing code is the easy part. Building it right is harder… so six months later, you’re scaling the product, not fixing the problems created today.
+
+12+ years of building software changes how you look at a task.
+
+You stop seeing “frontend” and “backend” as separate jobs. You see one product, one system, and every decision that can make it faster, stronger, easier to scale - or painfully expensive to fix later.
+
+That’s the perspective I bring to every project - backed by hands-on experience as a Full Stack Developer and Tech Lead.
+
+Numbers Tell the Story Better Than Buzzwords
+
+⚡️ 50% faster initial load time through SSR and bundle optimization
+🚀 40% faster build times after rebuilding the Webpack setup
+🔄 1,300+ API requests migrated to a new backend stack
+📦 20+ client applications delivered and supported
+🧩 50+ reusable components built across production UI systems
+🛠 40+ major features shipped for a complex SaaS platform
+
+Different projects. Same principle: make the product faster, cleaner, easier to scale - and easier to build on tomorrow.
+
+Bring Me the Hard Part.
+
+Whether you’re starting from zero, scaling what already works, or fixing something that doesn’t - I can step in where the product needs real engineering.
+
+🚀 Build a product from scratch - SaaS development, MVPs, dashboards, admin panels, marketplaces, and custom web applications from idea to production.
+
+⚙️ Take over an existing product - understand the codebase, clean up what’s holding it back, and keep development moving without rebuilding everything for the sake of it.
+
+🔥 Fix performance problems - slow pages, heavy bundles, inefficient APIs, database bottlenecks, and builds that waste development time.
+
+🔄 Modernize legacy systems - refactor aging code, migrate APIs and infrastructure, replace outdated technology, and reduce technical debt without breaking what already works.
+
+🔌 Connect the moving parts - backend development, REST APIs, databases, third-party integrations, authentication, real-time features, and frontend applications working as one system.
+
+📈 Prepare the product to scale - architecture, performance, maintainability, CI/CD, infrastructure, and technical decisions that won’t become tomorrow’s bottleneck.
+
+Need something that doesn’t fit neatly into one of those boxes? Even better. Send me the problem - I’ll help figure out the right way to solve it.
+
+The Stack Behind the Work.
+
+The right tool for the right problem - not technology for technology’s sake.
+
+⚛️ Frontend / React Development: JavaScript · TypeScript · React.js · Next.js · React Native · Expo · Redux · MobX · Zustand · Tailwind CSS · Sass · Less · HTML5 · CSS3 · Storybook · Webpack · Vite
+
+⚙️ Backend / Node.js Development: Node.js · NestJS · Express.js · PHP · REST APIs · JWT Authentication · WebSockets · Strapi
+
+🗄️ Databases & Data: PostgreSQL · MySQL · MongoDB · Prisma · Supabase
+
+☁️ Infrastructure & DevOps: Docker · AWS · Vercel · Nginx · GitHub Actions · GitLab CI/CD
+
+🧪 Testing & Code Quality: Jest · Cypress · Playwright · ESLint · Prettier
+
+🛒 CMS & E-commerce: WordPress · WooCommerce
+
+🔧 Development: Git · VS Code
+
+Why Work With Me?
+
+You’re not just getting development hours. You’re getting 12+ years of engineering experience and senior expertise behind every decision.
+
+I spot risks early, find smarter solutions, and make technical decisions with your product, timeline, and budget in mind.
+
+You bring the goal. I’ll help find the smartest way to build it.
+
+What You Get Working With Me
+
+🤝 Clear communication - you always know where the project stands.
+⚡️ Fast, thoughtful execution - speed without costly shortcuts.
+🎯 Real ownership - focused on the result, not just the task.
+🧩 Maintainable code - built for what comes next.
+
+Less friction. Fewer surprises. Better software.
+
+Have a Project in Mind?
+
+Whether you’re building something new, improving an existing product, or trying to get a stuck project moving again - tell me where you are and where you want to go.
+
+Let’s find the right solution and move your product forward.
